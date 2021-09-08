@@ -16,3 +16,13 @@ This is a temple which is very nearer to my undergrad college.The Lord **Gayathr
 3. Then go with the connecting flight to Albany,since this is the nearest airport to it.
 4. And then go in a car on roadways which would hardly take 15 minutes.
 
+## Things to bring
+
+- Camera
+- Sport Shoe
+- Some Outdoor game equipments
+- Swim suits
+
+
+
+
