@@ -56,7 +56,7 @@ The following table consists of food and drinks which one should try for sure.It
  ***
 
  >> Calculation of the hash of a string
-        The good and widely used way to define the hash of a string s of length n is
+    The good and widely used way to define the hash of a string s of length n is
 
 hash(s)=s[0]+s[1]⋅p+s[2]⋅p2+...+s[n−1]⋅pn−1modm=∑i=0n−1s[i]⋅pimodm,
 where p and m are some chosen, positive numbers. It is called a polynomial rolling hash function.
