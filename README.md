@@ -46,6 +46,14 @@ The following table consists of food and drinks which one should try for sure.It
 
 > Everyone have two lives, the second starts when you realize that you have only one.
 
-2. Get busy Living or Get busy Dying.
+    - Confucius
+
+
+> Get busy Living or Get busy Dying.
+
+    - Stephen King
+
+
+
 
 
