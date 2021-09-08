@@ -28,7 +28,7 @@ This is a temple which is very nearer to my undergrad college.The Lord **Gayathr
 
 ***
 
-Food and Drinks info :
+ ## Food and Drinks info :
 
 The following table consists of food and drinks which one should try for sure.It also consists of the location where it is avialble and the price for it.
 
