@@ -26,7 +26,17 @@ This is a temple which is very nearer to my undergrad college.The Lord **Gayathr
 
 [About Me](/AboutMe.md)
 
+***
 
+Food and Drinks info :
 
+The following table consists of food and drinks which one should try for sure.It also consists of the location where it is avialble and the price for it.
+
+| Food/Drinks      | Location                      | Price         |
+| :---             |    :----:                     |          ---: |
+| Chicken Biryani  | Godavari Restaurant,kansas    | $10           |
+| Mutton pulao     | Indian Street,Newjersy        | $14           |
+| Sambar Rice      | Indhu Hotel,Kansas            | $8            |
+| Sweet Lassi      | Lassi spot, St.Louis          | $5            |
 
 
