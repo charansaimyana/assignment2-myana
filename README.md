@@ -11,8 +11,8 @@ This is a temple which is very nearer to my undergrad college.The Lord **Gayathr
 
 ## Route To Troy From Maryville
 
-1.Take a Roadway from maryville to Kansas Airport.
-2.Take a flight to Atlanta.
-3.Then go with the connecting flight to Albany,since this is the nearest airport to it.
-4.And then go in a car on roadways which would hardly take 15 minutes.
+1. Take a Roadway from maryville to Kansas Airport.
+2. Take a flight to Atlanta.
+3. Then go with the connecting flight to Albany,since this is the nearest airport to it.
+4. And then go in a car on roadways which would hardly take 15 minutes.
 
