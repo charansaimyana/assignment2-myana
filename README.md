@@ -55,16 +55,17 @@ The following table consists of food and drinks which one should try for sure.It
 
  ***
 
- > Calculation of the hash of a string
-    The good and widely used way to define the hash of a string s of length n is
+ ## Code Fencing
 
-    hash(s)=s[0]+s[1]⋅p+s[2]⋅p2+...+s[n−1]⋅pn−1modm=∑i=0n−1s[i]⋅pimodm,
-    where p and m are some chosen, positive numbers. It is called a polynomial rolling hash function.
 
-    It is reasonable to make p a prime number roughly equal to the number of characters in the input alphabet. For example, if the input is composed of only lowercase letters of the English alphabet, p=31 is a good choice. If the input may contain both uppercase and lowercase letters, then p=53 is a possible choice. The code in this article will use p=31.
+> Hashing is an important technique which converts any object into an integer of a given range. Hashing is the key idea behind Hash Maps which provides searching in any dataset in O(1) time complexity. Hashing is widely used in a variety of problems as we can map any data to integer upon which we can do arithmetic operations or use it as an index for data structures. We will take a look at the techniques to hash a string that is to convert a string to an integer.
 
-    Obviously m should be a large number since the probability of two random strings colliding is about ≈1m. Sometimes m=264 is chosen, since then the integer overflows of 64-bit integers work exactly like the modulo operation. However, there exists a method, which generates colliding strings (which work independently from the choice of p). So in practice, m=264 is not recommended. A good choice    for m is some large prime number. The code in this article will just use m=109+9. This is a large number, but still small enough so that we can perform multiplication of two values using 64-bit integers.
+   Ideally, an hashing technique has the following properties:
 
+   If S is the object and H is the hash function, then hash of S is denoted by H(S).
+   If there are two distinct objects S1 and S2, ideally, H(S1) should not be equal to H(S2).
+   In some cases, H(S1) can be equal to H(S2) which we call collision and can be minimized and taken care of as well
+   If there is a range of hash function H as 0 to M, then H(S) = H(S) mod M.
 
 [Complete Code](https://cp-algorithms.com/string/string-hashing.html)
 
