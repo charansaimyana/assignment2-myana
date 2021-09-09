@@ -59,13 +59,11 @@ The following table consists of food and drinks which one should try for sure.It
 
 
 > Hashing is an important technique which converts any object into an integer of a given range. Hashing is the key idea behind Hash Maps which provides searching in any dataset in O(1) time complexity. Hashing is widely used in a variety of problems as we can map any data to integer upon which we can do arithmetic operations or use it as an index for data structures. We will take a look at the techniques to hash a string that is to convert a string to an integer.
-
-   Ideally, an hashing technique has the following properties:
-
-   If S is the object and H is the hash function, then hash of S is denoted by H(S).
-   If there are two distinct objects S1 and S2, ideally, H(S1) should not be equal to H(S2).
-   In some cases, H(S1) can be equal to H(S2) which we call collision and can be minimized and taken care of as well
-   If there is a range of hash function H as 0 to M, then H(S) = H(S) mod M.
+Ideally, an hashing technique has the following properties:
+If S is the object and H is the hash function, then hash of S is denoted by H(S).
+If there are two distinct objects S1 and S2, ideally, H(S1) should not be equal to H(S2).
+In some cases, H(S1) can be equal to H(S2) which we call collision and can be minimized and taken care of as well
+If there is a range of hash function H as 0 to M, then H(S) = H(S) mod M.
 
 [Complete Code](https://cp-algorithms.com/string/string-hashing.html)
 
