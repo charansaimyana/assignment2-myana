@@ -65,7 +65,7 @@ If there are two distinct objects S1 and S2, ideally, H(S1) should not be equal 
 In some cases, H(S1) can be equal to H(S2) which we call collision and can be minimized and taken care of as well
 If there is a range of hash function H as 0 to M, then H(S) = H(S) mod M.
 
-[Complete Code](https://cp-algorithms.com/string/string-hashing.html)
+[Description](https://iq.opengenus.org/string-hashing)
 
 
 
